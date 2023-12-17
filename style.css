@@ -1,0 +1,66 @@
+img{
+border: 2px solid orchid;    
+}
+h1{
+    color:hotpink;
+    text-align: center;
+    padding: 10px;
+}
+h2{
+    color: rgb(72, 42, 100);
+    text-align:center;
+}
+nav{
+    border: 10px;
+    color: crimson;
+    text-align: center;
+    padding: 15px 0;
+    border-bottom: 8px double rgb(72, 42, 100);
+}
+
+nav a{color: rgb(72, 42, 100);
+text-decoration: none;
+padding: 5px 8px;
+margin: 5px;
+border: 2px solid hotpink;
+border-radius: 14px;
+font-size: 20px;
+     
+}
+.fauna{
+    font-size: 24px;
+     color: rgb(72, 42, 100);
+     font-weight:600;
+}
+.fauna span{
+    font-weight: 800;
+    font-size: 28px;
+    color: hotpink;
+}   
+h2 span{
+    color: brown;
+}
+p{
+    font-size: 23px;
+    color: darkslategray;
+}
+html{
+    background-color: orchid; 
+
+}
+body{
+    padding: 0 10px;
+    background-color: rgb(250, 223, 227) ;
+    
+}
+header{
+    padding: 10px;
+    border-color: pink;
+}
+footer{
+   padding: 5px 0;
+}
+main, img {
+  text-align: center;
+}
+.circle{border-radius: 50%;}
